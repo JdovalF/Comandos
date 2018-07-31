@@ -1,4 +1,4 @@
-# Comandos necesarios para instalar las guest Additios en Debian
+# Comandos necesarios para instalar las guest Additions en Debian
 
 ## Preparar nuestro S.O.
 
@@ -35,7 +35,7 @@ apt-get install module-assistant
 ```bash
 apt-get install xserver-xorg xserver-xorg-core
 ```
-### segurar que tengamos la versión de las cabeceras del núcleo necesarias y el paquete build essential
+### asegurar que tengamos la versión de las cabeceras del núcleo necesarias y el paquete build essential
 ```bash
 sudo m-a prepare
 ```
